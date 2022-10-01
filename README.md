@@ -1,10 +1,6 @@
-<b>Orlight Technologies<b>
-  
-- Programming Company
-  - Languages = (C/C++/C#/Python/HTML/CSS/Javascript/PHP/JAVA/Node.js)
 
+# Orlight Technologies
 
-<!---
-OrlightTechnologies/OrlightTechnologies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Orlight technologies develop new programs for the new world.
+
+from Turkey.
